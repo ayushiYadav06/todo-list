@@ -8,3 +8,4 @@ const taskInstance = mongoose.Schema({
 
 const taskModel = mongoose.model("Task", taskInstance);
 export default taskModel;
+
